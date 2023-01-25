@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="equal_bg">#FF6200EE</color>
+    <color name="number_bg">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="p_equal_bg">#BDBDBD</color>
+    <color name="p_number_bg">#BDBDBD</color>
+    <color name="p_sign_bg">#A7B5AD</color>
+    <color name="sign_bg">#C3D4CB</color>
+</resources>
